@@ -7,10 +7,10 @@ This repository contains all C script I used in my undergraduate thesis back in 
 * **SAMPLE** --> and MATLAB source code related with sample plaintext generation   
 * **SAC ARDYA** --> source code for SAC test
 * **AWD** --> source code for AWD test
-* **RC5** --> source code for "pair" generation of RC5 algorithm   
-* **TEA** --> source code for "pair" generation of TEA algorithm   
-* **CFN** --> source code for "pair" generation of CFN algorithm   
-* **VEA** --> source code for "pair" generation of VEA algorithm   
+* **RC5** --> source code for "pair" and "difference" calculation of RC5 algorithm   
+* **TEA** --> source code for "pair" and "difference" calculation of TEA algorithm   
+* **CFN** --> source code for "pair" and "difference" calculation of CFN algorithm   
+* **VEA** --> source code for "pair" and "difference" calculation of VEA algorithm   
 
 ## References
 Below are some references regarding AC and AWD:
