@@ -2,6 +2,17 @@
 
 This repository contains all C script I used in my undergraduate thesis back in 2011-2012.
 
+## Directories
+* Short Paper containing summary of my thesis --> https://github.com/suryadina/ac-awd-test/blob/master/Short%20Paper%20of%20Ardya's%20Thesis%20(2012).pdf   
+* **SAMPLE** --> and MATLAB source code related with sample plaintext generation   
+* **SAC ARDYA** --> source code for SAC test
+* **AWD** --> source code for AWD test
+* **RC5** --> source code for "pair" generation of RC5 algorithm   
+* **TEA** --> source code for "pair" generation of TEA algorithm   
+* **CFN** --> source code for "pair" generation of CFN algorithm   
+* **VEA** --> source code for "pair" generation of VEA algorithm   
+
+## References
 Below are some references regarding AC and AWD:
 * https://en.wikipedia.org/wiki/Avalanche_effect   
 * Aras, Ekrem dan Yucel, Melek D. 2001. Performance Evaluation of SAFERK-64 and S-boxes of SAFER Family. Turk J Elec Engin . 2001. VOL.9 NO.2.   
